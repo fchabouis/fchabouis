@@ -1,4 +1,10 @@
-[![Francis Chabouis's github stats](https://github-readme-stats.vercel.app/api?username=fchabouis)](https://francis.chabouis.fr/)
+Hello!
+
+I'm a freelance developer based in Bordeaux, France, specializing in Elixir, Python and JavaScript. I enjoy working with PostgreSQL/PostGIS and building robust, scalable applications.
+
+For the past few years, I’ve been working with [beta.gouv.fr]([url](https://beta.gouv.fr/)), the French government’s incubator for innovative public services. I started by developing a [tool]([url](https://github.com/CartAV/cartav)) for visualizing road accident data in France, then spent three years working on [transport open-data](https://transport.data.gouv.fr/). Currently, I’m contributing to the [Référentiel National des Bâtiments (RNB)](https://rnb.beta.gouv.fr/), striving to create a unique and permanent identifier for every building in the country.
+
+On the side, I maintain [parc-epique.fr](parc-epique.fr), a website dedicated to kids' playgrounds. I also provide [an alternative server](https://github.com/fchabouis/applause_button_elixir_server) for applause-button.com, a project built with Elixir.
 
 <!--
 **fchabouis/fchabouis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +19,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+[![Francis Chabouis's github stats](https://github-readme-stats.vercel.app/api?username=fchabouis)](https://francis.chabouis.fr/)
 -->
